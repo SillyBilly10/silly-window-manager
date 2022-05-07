@@ -20,11 +20,11 @@ static const char *fonts[]          = {
 	"Noto Color Emoji:size=15:antialias=true:autohint=true"
 };
 static const char dmenufont[]       = "monospace:size=14";
-static const char col_gray1[]       = "#222222";
-static const char col_gray2[]       = "#444444";
-static const char col_gray3[]       = "#bbbbbb";
-static const char col_gray4[]       = "#eeeeee";
-static const char col_cyan[]        = "#005577";
+static const char col_gray1[]       = "#2E3440";
+static const char col_gray2[]       = "#434C5E";
+static const char col_gray3[]       = "#D8DEE9";
+static const char col_gray4[]       = "#ECEFF4";
+static const char col_cyan[]        = "#8FBCBB";
 static const unsigned int baralpha = 0x50;
 static const unsigned int borderalpha = OPAQUE;
 static const char *colors[][3]      = {
